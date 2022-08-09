@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/jsminim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/minim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/limou/eclipse-workspace/D102_Nhan_Vy_Nguyen_Assignment4_301384945/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
